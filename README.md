@@ -1,2 +1,3 @@
 # text-based-Java-game
 A text-based game in Java
+This was a project done to assess knowledge in various topics including components of the 4 pillars, while loops, if/else, if/else/if....
